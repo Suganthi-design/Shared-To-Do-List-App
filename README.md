@@ -1,4 +1,4 @@
-# Shared-To-Do-List-App
+# Shared-To-Do-List-App with Python
 A working To-Do Manager app where users can:
 
 Sign up and log in with their own accounts
